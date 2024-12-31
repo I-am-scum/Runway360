@@ -9,3 +9,11 @@ This is an Airport Management System designed to manage the operations of an air
 • Staff Management: Maintain records of airport staff, including their roles, schedules, and departments. </br>
 • Security Monitoring: Oversee security operations and alerts to ensure passenger and staff safety.</br>
 • Reports: Generate reports on flights, passengers, baggage, and more.</br>
+
+## User Features
+
+- Search for available flights.
+- Book and manage flight reservations.
+- Check in for flights.
+- View flight status and updates.
+- Receive booking notifications.

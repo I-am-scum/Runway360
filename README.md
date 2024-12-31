@@ -34,7 +34,6 @@ This is an Airport Management System designed to manage the operations of an air
 
 
 # Project Structure 📂
-
 '''
 demo/
 ├── src/

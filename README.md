@@ -177,5 +177,5 @@ Follow these steps to set up the project on your local machine.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/runway360/demo.git
+   git clone https://github.com/i-am-scum/runway360/demo.git
 

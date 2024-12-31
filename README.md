@@ -35,26 +35,5 @@ This is an Airport Management System designed to manage the operations of an air
 
 # Project Structure 📂
 
-Runway360/
-├── src/ </br>
-│   ├── main/</br>
-│   │   ├── java/</br>
-│   │   │   └── com/</br>
-│   │   │       └── example/</br>
-│   │   │           └── demo/</br>
-│   │   │               ├── controller/</br>
-│   │   │               │   └── UserController.java</br>
-│   │   │               ├── model/</br>
-│   │   │               │   └── User.java</br>
-│   │   │               ├── service/</br>
-│   │   │               │   └── CustomUserDetailsService.java</br>
-│   │   │               └── DemoApplication.java</br>
-│   │   └── resources/</br>
-│   │       ├── templates/</br>
-│   │       │   ├── home.html</br>
-│   │       │   ├── login.html</br>
-│   │       │   └── signup.html</br>
-│   │       ├── application.properties</br>
-│   └── target/</br>
-│       └── classes/</br>
-├── pom.xml</br>
+runway360/ ├── src/ │ ├── main/ │ │ ├── java/ │ │ │ └── com/ │ │ │ └── example/ │ │ │ └── demo/ │ │ │ ├── controller/ │ │ │ │ └── UserController.java │ │ │ ├── model/ │ │ │ │ └── User.java │ │ │ ├── service/ │ │ │ │ └── CustomUserDetailsService.java │ │ │ └── DemoApplication.java │ │ └── resources/ │ │ ├── templates/ │ │ │ ├── home.html │ │ │ ├── login.html │ │ │ └── signup.html │ │ ├── application.properties │ └── target/ │ └── classes/ ├── pom.xml
+

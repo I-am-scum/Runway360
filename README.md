@@ -179,3 +179,23 @@ Follow these steps to set up the project on your local machine.
    ```bash
    git clone https://github.com/i-am-scum/runway360/demo.git
 
+2. Configure database connection in ``\Runway360\demo\src\main\resources\application.propertie ``
+```
+ring.application.name=demo
+
+spring.thymeleaf.prefix=classpath:/templates/
+spring.thymeleaf.suffix=.html
+
+)
+spring.datasource.url=jdbc:mysql://localhost:3306/your_database_name?useSSL=false&serverTimezone=UTC
+spring.datasource.username=your_db_username
+spring.datasource.password=your_db_password
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+
+
+spring.jpa.database-platform=org.hibernate.dialect.MySQL5InnoDBDialect
+spring.jpa.hibernate.ddl-auto=update  
+spring.jpa.show-sql=true  
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialec
+```
+

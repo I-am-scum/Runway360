@@ -24,7 +24,7 @@ This is an Airport Management System designed to manage the operations of an air
 - Track and update flight status.
 - Send notifications to users about booking changes.
 
-Technical Requirements 🛠️
+# Technical Requirements 🛠️
 ● JDK 11</br>
 ● Apache Maven 3.8 or higher</br>
 ● MySQL 8.0</br>

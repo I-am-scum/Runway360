@@ -14,6 +14,12 @@ This is an Airport Management System designed to manage the operations of an air
 
 - Search for available flights.
 - Book and manage flight reservations.
-- Check in for flights.
 - View flight status and updates.
 - Receive booking notifications.
+
+## Admin Features
+
+- Manage flight schedules.
+- View and manage flight bookings.
+- Track and update flight status.
+- Send notifications to users about booking changes.

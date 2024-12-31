@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Runway360</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1 class="heading">Runway360</h1>
+        <h3 class="subtitle">Login & Registration Form</h3>
+    </header>
+
+    <div class="container">
+        <!-- Toggle Buttons -->
+        <div class="btn-group">
+            <button class="toggle-btn login active">Login</button>
+            <button class="toggle-btn signup">Signup</button>
+        </div>
+
+        <!-- Login Form -->
+        <div id="login-form" class="form active">
+            <input type="email" placeholder="Enter your email">
+            <input type="password" placeholder="Enter your password">
+            <button type="submit">Login</button>
+        </div>
+
+        <!-- Signup Form -->
+        <div id="signup-form" class="form">
+            <input type="text" placeholder="Enter your name">
+            <input type="email" placeholder="Enter your email">
+            <input type="password" placeholder="Enter your password">
+            <input type="password" placeholder="Confirm your password">
+            <button type="submit">Sign Up</button>
+        </div>
+
+        <!-- User Profile Button (Initially Hidden) -->
+        <button id="profile-btn" class="profile-btn" style="display: none;">User Profile</button>
+    </div>
+
+    <script src="index.js"></script>
+</body>
+</html>

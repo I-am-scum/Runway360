@@ -147,3 +147,35 @@ CREATE DATABASE tastenet_db;
 USE tastenet_db;
 ```
 
+# Installation and Setup 🚀
+
+Follow these steps to set up the project on your local machine.
+
+### Prerequisites
+
+1. **Install JDK 11**
+   - Download and install JDK 11 from [Oracle's website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+   - After installation, make sure to set up the `JAVA_HOME` environment variable and update your `PATH`.
+
+2. **Install Maven**
+   - Download Maven from [Maven's official website](https://maven.apache.org/download.cgi).
+   - Follow the installation instructions to set up Maven on your system.
+   - After installation, verify Maven by running:
+     ```bash
+     mvn -v
+     ```
+
+3. **Install MySQL 8.0**
+   - Download MySQL 8.0 from the [MySQL website](https://dev.mysql.com/downloads/installer/).
+   - Follow the installation instructions and make sure the MySQL server is up and running.
+
+4. **Install your preferred IDE**
+   - **IntelliJ IDEA**: Download from [IntelliJ IDEA website](https://www.jetbrains.com/idea/).
+   - **Eclipse**: Download from [Eclipse website](https://www.eclipse.org/downloads/).
+
+### Steps to Install and Run the Application
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/demo.git
+

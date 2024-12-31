@@ -135,3 +135,15 @@ demo/
     </build>
 </project>
 ```
+
+# Database Configuration 🗄️
+### MySQL Setup
+1. Create the database:
+```sql
+CREATE DATABASE tastenet_db;
+```
+2. Now Use the newly created database:
+```sql
+USE tastenet_db;
+```
+

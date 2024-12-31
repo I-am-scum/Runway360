@@ -31,3 +31,30 @@ This is an Airport Management System designed to manage the operations of an air
 ● Spring Boot 3.4.0</br>
 ● IntelliJ IDEA or Eclipse IDE or VS Code</br>
 ● Git</br>
+
+
+# Project Structure 📂
+
+Runway360/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── example/
+│   │   │           └── demo/
+│   │   │               ├── controller/
+│   │   │               │   └── UserController.java
+│   │   │               ├── model/
+│   │   │               │   └── User.java
+│   │   │               ├── service/
+│   │   │               │   └── CustomUserDetailsService.java
+│   │   │               └── DemoApplication.java
+│   │   └── resources/
+│   │       ├── templates/
+│   │       │   ├── home.html
+│   │       │   ├── login.html
+│   │       │   └── signup.html
+│   │       ├── application.properties
+│   └── target/
+│       └── classes/
+├── pom.xml

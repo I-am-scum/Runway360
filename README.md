@@ -25,9 +25,9 @@ This is an Airport Management System designed to manage the operations of an air
 - Send notifications to users about booking changes.
 
 Technical Requirements 🛠️
-● JDK 11
-● Apache Maven 3.8 or higher
-● MySQL 8.0
-● Spring Boot 3.4.0
-● IntelliJ IDEA or Eclipse IDE or VS Code
-● Git
+● JDK 11</br>
+● Apache Maven 3.8 or higher</br>
+● MySQL 8.0</br>
+● Spring Boot 3.4.0</br>
+● IntelliJ IDEA or Eclipse IDE or VS Code</br>
+● Git</br>

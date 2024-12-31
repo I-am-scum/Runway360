@@ -25,11 +25,12 @@ This is an Airport Management System designed to manage the operations of an air
 - View and manage flight bookings.
 - Track and update flight status.
 - Send notifications to users about booking changes.
+MySQL 8.0</br>![Screenshot 2024-12-31 234002](https://github.com/user-attachments/assets/584bfce3-1950-45d9-8b92-c6eb882fe9fb)
 
 # Technical Requirements 🛠️
 ● JDK 11</br>
 ● Apache Maven 3.8 or higher</br>
-● MySQL 8.0</br>![Screenshot 2024-12-31 234002](https://github.com/user-attachments/assets/584bfce3-1950-45d9-8b92-c6eb882fe9fb)
+● 
 
 ● Spring Boot 3.4.0</br>
 ● IntelliJ IDEA or Eclipse IDE or VS Code</br>

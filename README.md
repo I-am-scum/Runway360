@@ -198,4 +198,31 @@ spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true  
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialec
 ```
+3. Build the project:
+```bash
+mvn clean install
+```
+# Running the Project ▶️
+### Development
+1. Run the Spring Boot application:
+```
+mvn spring-boot:run
+```
+2. Access the application at http://localhost:8080.
+### Production Deployment
+1. Build for production:
+```bash
+mvn clean package
+```
+2. Deploy the generated JAR/WAR file to your production server.
+
+# Testing 🧪
+● Run the tests using:
+```bash
+mvn test
+```
+
+#Contact 📧
+gaurav - @I-am-scum<br>
+Project Link - https://github.com/I-am-scum/Runway360.git
 

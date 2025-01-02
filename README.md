@@ -147,11 +147,11 @@ demo/
 ### MySQL Setup
 1. Create the database:
 ```sql
-CREATE DATABASE runway360;
+CREATE DATABASE runway_360;
 ```
 2. Now Use the newly created database:
 ```sql
-USE runway 360;
+USE runway_360;
 ```
 
 # Installation and Setup 🚀

@@ -147,11 +147,11 @@ demo/
 ### MySQL Setup
 1. Create the database:
 ```sql
-CREATE DATABASE tastenet_db;
+CREATE DATABASE runway360;
 ```
 2. Now Use the newly created database:
 ```sql
-USE tastenet_db;
+USE runway 360;
 ```
 
 # Installation and Setup 🚀
